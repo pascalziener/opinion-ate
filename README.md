@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+
+My implementation of the example app opinion-ate from the book "Outside-In React Development" by Josh Justice.
+
+The book is for sale at http://leanpub.com/outside-in-react-development
+
+Production: https://opinion-ate-react-pzi.netlify.app/
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead
+of `npm` to install them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
